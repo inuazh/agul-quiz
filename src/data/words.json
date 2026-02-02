@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "agul": "г1ифуд",
+    "ru": "пять",
+    "difficulty": "easy",
+    "page": 70
+  },
+  {
+    "id": 2,
+    "agul": "ракъ‘",
+    "ru": "путь",
+    "difficulty": "easy",
+    "page": 141
+  },
+  {
+    "id": 3,
+    "agul": "т1ишанас",
+    "ru": "мять",
+    "difficulty": "easy",
+    "page": 157
+  },
+  {
+    "id": 4,
+    "agul": "ъ'ут!алас",
+    "ru": "есть",
+    "difficulty": "easy",
+    "page": 214
+  },
+  {
+    "id": 5,
+    "agul": "ъ'улччанас",
+    "ru": "мыть",
+    "difficulty": "easy",
+    "page": 215
+  },
+  {
+    "id": 6,
+    "agul": "гъархьас",
+    "ru": "спать",
+    "difficulty": "easy",
+    "page": 53
+  },
+  {
+    "id": 7,
+    "agul": "ругъас",
+    "ru": "стыть",
+    "difficulty": "easy",
+    "page": 143
+  },
+  {
+    "id": 8,
+    "agul": "ут!ас",
+    "ru": "гнить",
+    "difficulty": "easy",
+    "page": 161
+  },
+  {
+    "id": 9,
+    "agul": "хъакьас",
+    "ru": "вдеть",
+    "difficulty": "easy",
+    "page": 178
+  },
+  {
+    "id": 10,
+    "agul": "хъут1анас",
+    "ru": "ждать",
+    "difficulty": "easy",
+    "page": 182
+  },
+  {
+    "id": 11,
+    "agul": "ч1ургъас",
+    "ru": "рвать",
+    "difficulty": "easy",
+    "page": 201
+  },
+  {
+    "id": 12,
+    "agul": "гъирх1ас",
+    "ru": "стоять",
+    "difficulty": "easy",
+    "page": 54
+  },
+  {
+    "id": 13,
+    "agul": "гъузанас",
+    "ru": "стоять",
+    "difficulty": "easy",
+    "page": 54
+  },
+  {
+    "id": 14,
+    "agul": "Нуч1ас",
+    "ru": "влезть",
+    "difficulty": "easy",
+    "page": 71
+  },
+  {
+    "id": 15,
+    "agul": "дахъ4ас",
+    "ru": "остыть",
+    "difficulty": "easy",
+    "page": 74
+  },
+  {
+    "id": 16,
+    "agul": "ихъвас",
+    "ru": "давить",
+    "difficulty": "easy",
+    "page": 89
+  },
+  {
+    "id": 17,
+    "agul": "иц1вас",
+    "ru": "тесать",
+    "difficulty": "easy",
+    "page": 89
+  },
+  {
+    "id": 18,
+    "agul": "иц1уд",
+    "ru": "десять",
+    "difficulty": "easy",
+    "page": 89
+  },
+  {
+    "id": 19,
+    "agul": "таг1тас)",
+    "ru": "катить",
+    "difficulty": "easy",
+    "page": 108
+  },
+  {
+    "id": 20,
+    "agul": "къархьйл",
+    "ru": "локоть",
+    "difficulty": "easy",
+    "page": 114
+  },
+  {
+    "id": 21,
+    "agul": "кьац1ик!ас",
+    "ru": "кусать",
+    "difficulty": "easy",
+    "page": 120
+  },
+  {
+    "id": 22,
+    "agul": "лик1енас",
+    "ru": "писать",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 23,
+    "agul": "ухъас",
+    "ru": "сосать",
+    "difficulty": "easy",
+    "page": 162
+  },
+  {
+    "id": 24,
+    "agul": "хъахвас",
+    "ru": "запить",
+    "difficulty": "easy",
+    "page": 180
+  },
+  {
+    "id": 25,
+    "agul": "хъаархьас",
+    "ru": "падать",
+    "difficulty": "easy",
+    "page": 180
+  },
+  {
+    "id": 26,
+    "agul": "хьугъас",
+    "ru": "верить",
+    "difficulty": "easy",
+    "page": 181
+  },
+  {
+    "id": 27,
+    "agul": "ц!ухас",
+    "ru": "сосать",
+    "difficulty": "easy",
+    "page": 196
+  },
+  {
+    "id": 28,
+    "agul": "ч!ах!ас",
+    "ru": "тащить",
+    "difficulty": "easy",
+    "page": 200
+  },
+  {
+    "id": 29,
+    "agul": "ч1ирх1ас",
+    "ru": "тащить",
+    "difficulty": "easy",
+    "page": 201
+  },
+  {
+    "id": 30,
+    "agul": "ч1уркьас",
+    "ru": "жевать",
+    "difficulty": "easy",
+    "page": 201
+  },
+  {
+    "id": 31,
+    "agul": "йк!ас",
+    "ru": "щипать",
+    "difficulty": "easy",
+    "page": 204
+  },
+  {
+    "id": 32,
+    "agul": "ъархьас",
+    "ru": "упасть",
+    "difficulty": "easy",
+    "page": 207
+  },
+  {
+    "id": 33,
+    "agul": "ъуч!ас",
+    "ru": "влезть",
+    "difficulty": "easy",
+    "page": 210
+  },
+  {
+    "id": 34,
+    "agul": "буъ‘ас",
+    "ru": "молчать",
+    "difficulty": "easy",
+    "page": 43
+  },
+  {
+    "id": 35,
+    "agul": "гъайхьас",
+    "ru": "поднять",
+    "difficulty": "easy",
+    "page": 53
+  },
+  {
+    "id": 36,
+    "agul": "гьурк!ас",
+    "ru": "хватать",
+    "difficulty": "easy",
+    "page": 62
+  },
+  {
+    "id": 37,
+    "agul": "г1аттивас",
+    "ru": "выбрать",
+    "difficulty": "easy",
+    "page": 67
+  },
+  {
+    "id": 38,
+    "agul": "г1аар",
+    "ru": "совесть",
+    "difficulty": "easy",
+    "page": 70
+  },
+  {
+    "id": 39,
+    "agul": "къарс",
+    "ru": "перхоть",
+    "difficulty": "easy",
+    "page": 114
+  },
+  {
+    "id": 40,
+    "agul": "т1аг!ас",
+    "ru": "пухнуть",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 41,
+    "agul": "хъатткТис",
+    "ru": "украсть",
+    "difficulty": "easy",
+    "page": 177
+  },
+  {
+    "id": 42,
+    "agul": "хъаттивас",
+    "ru": "снимать",
+    "difficulty": "easy",
+    "page": 179
+  },
+  {
+    "id": 43,
+    "agul": "хъумё",
+    "ru": "ещёесть",
+    "difficulty": "easy",
+    "page": 182
+  },
+  {
+    "id": 44,
+    "agul": "т1улк1ванас",
+    "ru": "лопнуть",
+    "difficulty": "easy",
+    "page": 199
+  },
+  {
+    "id": 45,
+    "agul": "ъадивас",
+    "ru": "утонуть",
+    "difficulty": "easy",
+    "page": 206
+  },
+  {
+    "id": 46,
+    "agul": "ъадикас",
+    "ru": "выгнать",
+    "difficulty": "easy",
+    "page": 206
+  },
+  {
+    "id": 47,
+    "agul": "ъачирхТас",
+    "ru": "ударить",
+    "difficulty": "easy",
+    "page": 209
+  },
+  {
+    "id": 48,
+    "agul": "ьачуч1ас",
+    "ru": "влезать",
+    "difficulty": "easy",
+    "page": 209
+  },
+  {
+    "id": 49,
+    "agul": "ъйрхХас",
+    "ru": "загнать",
+    "difficulty": "easy",
+    "page": 209
+  },
+  {
+    "id": 50,
+    "agul": "ъ'яшас",
+    "ru": "плакать",
+    "difficulty": "easy",
+    "page": 214
+  },
+  {
+    "id": 51,
+    "agul": "ъаркис",
+    "ru": "понимать",
+    "difficulty": "easy",
+    "page": 52
+  },
+  {
+    "id": 52,
+    "agul": "гьадйрх!ас",
+    "ru": "собирать",
+    "difficulty": "easy",
+    "page": 52
+  },
+  {
+    "id": 53,
+    "agul": "гъайшас",
+    "ru": "вставать",
+    "difficulty": "easy",
+    "page": 53
+  },
+  {
+    "id": 54,
+    "agul": "гХагъдивас",
+    "ru": "вытянуть",
+    "difficulty": "easy",
+    "page": 63
+  },
+  {
+    "id": 55,
+    "agul": "г!йхьас",
+    "ru": "положить",
+    "difficulty": "easy",
+    "page": 70
+  },
+  {
+    "id": 56,
+    "agul": "джик!ёс",
+    "ru": "находить",
+    "difficulty": "easy",
+    "page": 80
+  },
+  {
+    "id": 57,
+    "agul": "ккёдагъас",
+    "ru": "вытянуть",
+    "difficulty": "easy",
+    "page": 106
+  },
+  {
+    "id": 58,
+    "agul": "къад",
+    "ru": "двадцать",
+    "difficulty": "easy",
+    "page": 110
+  },
+  {
+    "id": 59,
+    "agul": "т1ерк1вёс",
+    "ru": "трескать",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 60,
+    "agul": "хъазис",
+    "ru": "толкнуть",
+    "difficulty": "easy",
+    "page": 181
+  },
+  {
+    "id": 61,
+    "agul": "хъуссас",
+    "ru": "сыпаться",
+    "difficulty": "easy",
+    "page": 182
+  },
+  {
+    "id": 62,
+    "agul": "хъуч1ирх!ас",
+    "ru": "волочить",
+    "difficulty": "easy",
+    "page": 184
+  },
+  {
+    "id": 63,
+    "agul": "хьибц!ур",
+    "ru": "тридцать",
+    "difficulty": "easy",
+    "page": 186
+  },
+  {
+    "id": 64,
+    "agul": "хьилйк1ес",
+    "ru": "подыхать",
+    "difficulty": "easy",
+    "page": 186
+  },
+  {
+    "id": 65,
+    "agul": "ъаат!ас",
+    "ru": "вырывать",
+    "difficulty": "easy",
+    "page": 205
+  },
+  {
+    "id": 66,
+    "agul": "ъайчТвас",
+    "ru": "выходить",
+    "difficulty": "easy",
+    "page": 206
+  },
+  {
+    "id": 67,
+    "agul": "ъаттгъас",
+    "ru": "выводить",
+    "difficulty": "easy",
+    "page": 208
+  },
+  {
+    "id": 68,
+    "agul": "ъачархьас",
+    "ru": "попадать",
+    "difficulty": "easy",
+    "page": 209
+  },
+  {
+    "id": 69,
+    "agul": "ъ‘ашас",
+    "ru": "отсыреть",
+    "difficulty": "easy",
+    "page": 211
+  },
+  {
+    "id": 70,
+    "agul": "элхъ‘унас",
+    "ru": "смеяться",
+    "difficulty": "easy",
+    "page": 216
+  },
+  {
+    "id": 71,
+    "agul": "дикьванас",
+    "ru": "шить",
+    "difficulty": "easy",
+    "page": 75
+  },
+  {
+    "id": 72,
+    "agul": "йирхХас",
+    "ru": "бить",
+    "difficulty": "easy",
+    "page": 94
+  },
+  {
+    "id": 73,
+    "agul": "каьйа",
+    "ru": "есть",
+    "difficulty": "easy",
+    "page": 97
+  },
+  {
+    "id": 74,
+    "agul": "ккивёс",
+    "ru": "быть",
+    "difficulty": "easy",
+    "page": 109
+  },
+  {
+    "id": 75,
+    "agul": "ухас",
+    "ru": "пить",
+    "difficulty": "easy",
+    "page": 162
+  },
+  {
+    "id": 76,
+    "agul": "чал",
+    "ru": "сеть",
+    "difficulty": "easy",
+    "page": 196
+  },
+  {
+    "id": 77,
+    "agul": "гьушанас",
+    "ru": "брать",
+    "difficulty": "easy",
+    "page": 55
+  },
+  {
+    "id": 78,
+    "agul": "гХакьвас",
+    "ru": "сесть",
+    "difficulty": "easy",
+    "page": 65
+  },
+  {
+    "id": 79,
+    "agul": "нафтт",
+    "ru": "нефть",
+    "difficulty": "easy",
+    "page": 136
+  },
+  {
+    "id": 80,
+    "agul": "уьцГас",
+    "ru": "таять",
+    "difficulty": "easy",
+    "page": 163
+  },
+  {
+    "id": 81,
+    "agul": "хьашис",
+    "ru": "лаять",
+    "difficulty": "easy",
+    "page": 180
+  },
+  {
+    "id": 82,
+    "agul": "гьагьдаркас",
+    "ru": "стоять",
+    "difficulty": "easy",
+    "page": 56
+  },
+  {
+    "id": 83,
+    "agul": "гьуккас",
+    "ru": "бежать",
+    "difficulty": "easy",
+    "page": 62
+  },
+  {
+    "id": 84,
+    "agul": "гХайхьас",
+    "ru": "ломать",
+    "difficulty": "easy",
+    "page": 65
+  },
+  {
+    "id": 85,
+    "agul": "гТархьас",
+    "ru": "упасть",
+    "difficulty": "easy",
+    "page": 67
+  },
+  {
+    "id": 86,
+    "agul": "йерчТуд",
+    "ru": "девять",
+    "difficulty": "easy",
+    "page": 93
+  },
+  {
+    "id": 87,
+    "agul": "каьгьикас",
+    "ru": "будить",
+    "difficulty": "easy",
+    "page": 96
+  },
+  {
+    "id": 88,
+    "agul": "каьдатас",
+    "ru": "тушить",
+    "difficulty": "easy",
+    "page": 96
+  },
+  {
+    "id": 89,
+    "agul": "кётас",
+    "ru": "цедить",
+    "difficulty": "easy",
+    "page": 98
+  },
+  {
+    "id": 90,
+    "agul": "кеедагьас",
+    "ru": "висеть",
+    "difficulty": "easy",
+    "page": 100
+  },
+  {
+    "id": 91,
+    "agul": "кирк",
+    "ru": "ноготь",
+    "difficulty": "easy",
+    "page": 101
+  },
+  {
+    "id": 92,
+    "agul": "ккёрхьас",
+    "ru": "упасть",
+    "difficulty": "easy",
+    "page": 108
+  },
+  {
+    "id": 93,
+    "agul": "пушат",
+    "ru": "печать",
+    "difficulty": "easy",
+    "page": 139
+  },
+  {
+    "id": 94,
+    "agul": "рукТас",
+    "ru": "копать",
+    "difficulty": "easy",
+    "page": 144
+  },
+  {
+    "id": 95,
+    "agul": "руцас",
+    "ru": "искать",
+    "difficulty": "easy",
+    "page": 145
+  },
+  {
+    "id": 96,
+    "agul": "хьацас",
+    "ru": "надеть",
+    "difficulty": "easy",
+    "page": 180
+  },
+  {
+    "id": 97,
+    "agul": "хьей",
+    "ru": "шерсть",
+    "difficulty": "easy",
+    "page": 186
+  },
+  {
+    "id": 98,
+    "agul": "чанг",
+    "ru": "горсть",
+    "difficulty": "easy",
+    "page": 197
+  },
+  {
+    "id": 99,
+    "agul": "ьйхьас",
+    "ru": "класть",
+    "difficulty": "easy",
+    "page": 209
+  },
+  {
+    "id": 100,
+    "agul": "экьвас",
+    "ru": "сидеть",
+    "difficulty": "easy",
+    "page": 216
+  },
+  {
+    "id": 101,
+    "agul": "гьатас",
+    "ru": "послать",
+    "difficulty": "easy",
+    "page": 59
+  },
+  {
+    "id": 102,
+    "agul": "кирадж",
+    "ru": "известь",
+    "difficulty": "easy",
+    "page": 101
+  },
+  {
+    "id": 103,
+    "agul": "кйркьвас",
+    "ru": "попасть",
+    "difficulty": "easy",
+    "page": 101
+  },
+  {
+    "id": 104,
+    "agul": "кёдаркас",
+    "ru": "загнуть",
+    "difficulty": "easy",
+    "page": 102
+  },
+  {
+    "id": 105,
+    "agul": "ккимё",
+    "ru": "ещёесть",
+    "difficulty": "easy",
+    "page": 109
+  },
+  {
+    "id": 106,
+    "agul": "фадихьас",
+    "ru": "бросить",
+    "difficulty": "easy",
+    "page": 164
+  },
+  {
+    "id": 107,
+    "agul": "фацанас",
+    "ru": "держать",
+    "difficulty": "easy",
+    "page": 166
+  },
+  {
+    "id": 108,
+    "agul": "шиндакь",
+    "ru": "прихоть",
+    "difficulty": "easy",
+    "page": 203
+  },
+  {
+    "id": 109,
+    "agul": "шинтТёкь",
+    "ru": "прихоть",
+    "difficulty": "easy",
+    "page": 203
+  },
+  {
+    "id": 110,
+    "agul": "гХаларийис",
+    "ru": "краснеть",
+    "difficulty": "easy",
+    "page": 65
+  },
+  {
+    "id": 111,
+    "agul": "акьас",
+    "ru": "остудить",
+    "difficulty": "easy",
+    "page": 74
+  },
+  {
+    "id": 112,
+    "agul": "дуьхьёс",
+    "ru": "ладиться",
+    "difficulty": "easy",
+    "page": 78
+  },
+  {
+    "id": 113,
+    "agul": "йлгванас",
+    "ru": "остаться",
+    "difficulty": "easy",
+    "page": 86
+  },
+  {
+    "id": 114,
+    "agul": "ичас",
+    "ru": "брызнуть",
+    "difficulty": "easy",
+    "page": 89
+  },
+  {
+    "id": 115,
+    "agul": "каьдатХас",
+    "ru": "отрезать",
+    "difficulty": "easy",
+    "page": 96
+  },
+  {
+    "id": 116,
+    "agul": "каьйцТвас",
+    "ru": "чиркнуть",
+    "difficulty": "easy",
+    "page": 97
+  },
+  {
+    "id": 117,
+    "agul": "ккёдивас",
+    "ru": "засосать",
+    "difficulty": "easy",
+    "page": 107
+  },
+  {
+    "id": 118,
+    "agul": "лиханас",
+    "ru": "работать",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 119,
+    "agul": "руккас",
+    "ru": "зарезать",
+    "difficulty": "easy",
+    "page": 143
+  },
+  {
+    "id": 120,
+    "agul": "файхьас",
+    "ru": "отколоть",
+    "difficulty": "easy",
+    "page": 165
+  },
+  {
+    "id": 121,
+    "agul": "фаатХас",
+    "ru": "отрезать",
+    "difficulty": "easy",
+    "page": 167
+  },
+  {
+    "id": 122,
+    "agul": "файа",
+    "ru": "есть",
+    "difficulty": "easy",
+    "page": 164
+  },
+  {
+    "id": 123,
+    "agul": "ламус",
+    "ru": "честь",
+    "difficulty": "easy",
+    "page": 126
+  },
+  {
+    "id": 124,
+    "agul": "пай",
+    "ru": "часть",
+    "difficulty": "easy",
+    "page": 137
+  },
+  {
+    "id": 125,
+    "agul": "ййес",
+    "ru": "класть",
+    "difficulty": "easy",
+    "page": 86
+  },
+  {
+    "id": 126,
+    "agul": "йес",
+    "ru": "давать",
+    "difficulty": "easy",
+    "page": 93
+  },
+  {
+    "id": 127,
+    "agul": "уршас",
+    "ru": "кипеть",
+    "difficulty": "easy",
+    "page": 145
+  },
+  {
+    "id": 128,
+    "agul": "зурзас",
+    "ru": "дрожать",
+    "difficulty": "easy",
+    "page": 84
+  },
+  {
+    "id": 129,
+    "agul": "удас",
+    "ru": "срывать",
+    "difficulty": "easy",
+    "page": 159
+  },
+  {
+    "id": 130,
+    "agul": "yxlac",
+    "ru": "хранить",
+    "difficulty": "easy",
+    "page": 162
+  },
+  {
+    "id": 131,
+    "agul": "ъ'акьул",
+    "ru": "ум",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 132,
+    "agul": "бугъма",
+    "ru": "мед",
+    "difficulty": "easy",
+    "page": 41
+  },
+  {
+    "id": 133,
+    "agul": "г1анц1",
+    "ru": "вой",
+    "difficulty": "easy",
+    "page": 66
+  },
+  {
+    "id": 134,
+    "agul": "кант!",
+    "ru": "нож",
+    "difficulty": "easy",
+    "page": 95
+  },
+  {
+    "id": 135,
+    "agul": "къаншар",
+    "ru": "про",
+    "difficulty": "easy",
+    "page": 113
+  },
+  {
+    "id": 136,
+    "agul": "къатйр",
+    "ru": "мул",
+    "difficulty": "easy",
+    "page": 114
+  },
+  {
+    "id": 137,
+    "agul": "къугъ",
+    "ru": "пух",
+    "difficulty": "easy",
+    "page": 116
+  },
+  {
+    "id": 138,
+    "agul": "к1арч",
+    "ru": "рог",
+    "difficulty": "easy",
+    "page": 124
+  },
+  {
+    "id": 139,
+    "agul": "к1ен",
+    "ru": "дно",
+    "difficulty": "easy",
+    "page": 124
+  },
+  {
+    "id": 140,
+    "agul": "к!ирк!",
+    "ru": "сын",
+    "difficulty": "easy",
+    "page": 125
+  },
+  {
+    "id": 141,
+    "agul": "лук!",
+    "ru": "раб",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 142,
+    "agul": "т!афал",
+    "ru": "вор",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 143,
+    "agul": "урк!",
+    "ru": "яма",
+    "difficulty": "easy",
+    "page": 161
+  },
+  {
+    "id": 144,
+    "agul": "къакъахис",
+    "ru": "под",
+    "difficulty": "easy",
+    "page": 177
+  },
+  {
+    "id": 145,
+    "agul": "хъара",
+    "ru": "ещё",
+    "difficulty": "easy",
+    "page": 178
+  },
+  {
+    "id": 146,
+    "agul": "хъуйё-хъудаваф",
+    "ru": "всё",
+    "difficulty": "easy",
+    "page": 182
+  },
+  {
+    "id": 147,
+    "agul": "хъ‘ахъв",
+    "ru": "нос",
+    "difficulty": "easy",
+    "page": 185
+  },
+  {
+    "id": 148,
+    "agul": "х1урна",
+    "ru": "хна",
+    "difficulty": "easy",
+    "page": 191
+  },
+  {
+    "id": 149,
+    "agul": "ъ‘ама",
+    "ru": "шаг",
+    "difficulty": "easy",
+    "page": 210
+  },
+  {
+    "id": 150,
+    "agul": "ъ‘уд",
+    "ru": "два",
+    "difficulty": "easy",
+    "page": 211
+  },
+  {
+    "id": 151,
+    "agul": "ъ‘удра",
+    "ru": "оба",
+    "difficulty": "easy",
+    "page": 212
+  },
+  {
+    "id": 152,
+    "agul": "ъ'уй",
+    "ru": "кал",
+    "difficulty": "easy",
+    "page": 214
+  },
+  {
+    "id": 153,
+    "agul": "гучТрах!",
+    "ru": "трус",
+    "difficulty": "easy",
+    "page": 51
+  },
+  {
+    "id": 154,
+    "agul": "гъам",
+    "ru": "горе",
+    "difficulty": "easy",
+    "page": 53
+  },
+  {
+    "id": 155,
+    "agul": "гъил",
+    "ru": "рука",
+    "difficulty": "easy",
+    "page": 54
+  },
+  {
+    "id": 156,
+    "agul": "гъурт",
+    "ru": "пена",
+    "difficulty": "easy",
+    "page": 55
+  },
+  {
+    "id": 157,
+    "agul": "г!ар",
+    "ru": "стыд",
+    "difficulty": "easy",
+    "page": 66
+  },
+  {
+    "id": 158,
+    "agul": "г1ул",
+    "ru": "лето",
+    "difficulty": "easy",
+    "page": 71
+  },
+  {
+    "id": 159,
+    "agul": "джалгъа",
+    "ru": "щель",
+    "difficulty": "easy",
+    "page": 79
+  },
+  {
+    "id": 160,
+    "agul": "кь‘уркь‘",
+    "ru": "узел",
+    "difficulty": "easy",
+    "page": 88
+  },
+  {
+    "id": 161,
+    "agul": "къаз",
+    "ru": "гусь",
+    "difficulty": "easy",
+    "page": 111
+  },
+  {
+    "id": 162,
+    "agul": "къакь",
+    "ru": "вьюк",
+    "difficulty": "easy",
+    "page": 112
+  },
+  {
+    "id": 163,
+    "agul": "къарк",
+    "ru": "веко",
+    "difficulty": "easy",
+    "page": 113
+  },
+  {
+    "id": 164,
+    "agul": "къизйлгуьл",
+    "ru": "роза",
+    "difficulty": "easy",
+    "page": 115
+  },
+  {
+    "id": 165,
+    "agul": "къускъун",
+    "ru": "горб",
+    "difficulty": "easy",
+    "page": 117
+  },
+  {
+    "id": 166,
+    "agul": "къучма",
+    "ru": "друг",
+    "difficulty": "easy",
+    "page": 117
+  },
+  {
+    "id": 167,
+    "agul": "кьабк!",
+    "ru": "моль",
+    "difficulty": "easy",
+    "page": 118
+  },
+  {
+    "id": 168,
+    "agul": "кь‘ал",
+    "ru": "соль",
+    "difficulty": "easy",
+    "page": 123
+  },
+  {
+    "id": 169,
+    "agul": "лйт1ри",
+    "ru": "литр",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 170,
+    "agul": "лиъ‘",
+    "ru": "орёл",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 171,
+    "agul": "маскъв",
+    "ru": "мозг",
+    "difficulty": "easy",
+    "page": 130
+  },
+  {
+    "id": 172,
+    "agul": "мйт1ри",
+    "ru": "метр",
+    "difficulty": "easy",
+    "page": 133
+  },
+  {
+    "id": 173,
+    "agul": "мурх!",
+    "ru": "сани",
+    "difficulty": "easy",
+    "page": 135
+  },
+  {
+    "id": 174,
+    "agul": "рукъ4",
+    "ru": "зола",
+    "difficulty": "easy",
+    "page": 143
+  },
+  {
+    "id": 175,
+    "agul": "рух!",
+    "ru": "душа",
+    "difficulty": "easy",
+    "page": 144
+  },
+  {
+    "id": 176,
+    "agul": "саг!ат",
+    "ru": "часы",
+    "difficulty": "easy",
+    "page": 146
+  },
+  {
+    "id": 177,
+    "agul": "саг!бун",
+    "ru": "мыло",
+    "difficulty": "easy",
+    "page": 146
+  },
+  {
+    "id": 178,
+    "agul": "т!аб",
+    "ru": "пень",
+    "difficulty": "easy",
+    "page": 155
+  },
+  {
+    "id": 179,
+    "agul": "т1агар",
+    "ru": "окно",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 180,
+    "agul": "т!аг!ам",
+    "ru": "вкус",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 181,
+    "agul": "т1арун",
+    "ru": "сажа",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 182,
+    "agul": "т1аг1ам",
+    "ru": "вкус",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 183,
+    "agul": "т!ун",
+    "ru": "ясли",
+    "difficulty": "easy",
+    "page": 157
+  },
+  {
+    "id": 184,
+    "agul": "т1ур",
+    "ru": "прыщ",
+    "difficulty": "easy",
+    "page": 158
+  },
+  {
+    "id": 185,
+    "agul": "т!ут!",
+    "ru": "муха",
+    "difficulty": "easy",
+    "page": 158
+  },
+  {
+    "id": 186,
+    "agul": "угъас",
+    "ru": "идти",
+    "difficulty": "easy",
+    "page": 159
+  },
+  {
+    "id": 187,
+    "agul": "урйъ",
+    "ru": "мята",
+    "difficulty": "easy",
+    "page": 161
+  },
+  {
+    "id": 188,
+    "agul": "урккагъ",
+    "ru": "ярмо",
+    "difficulty": "easy",
+    "page": 161
+  },
+  {
+    "id": 189,
+    "agul": "хъудуьхьес",
+    "ru": "идти",
+    "difficulty": "easy",
+    "page": 181
+  },
+  {
+    "id": 190,
+    "agul": "хъ‘уссу",
+    "ru": "лицо",
+    "difficulty": "easy",
+    "page": 185
+  },
+  {
+    "id": 191,
+    "agul": "хьилёч1ан",
+    "ru": "ложь",
+    "difficulty": "easy",
+    "page": 186
+  },
+  {
+    "id": 192,
+    "agul": "х1аджйлеглег",
+    "ru": "аист",
+    "difficulty": "easy",
+    "page": 187
+  },
+  {
+    "id": 193,
+    "agul": "х!акймуст.",
+    "ru": "врач",
+    "difficulty": "easy",
+    "page": 188
+  },
+  {
+    "id": 194,
+    "agul": "х1уб",
+    "ru": "овца",
+    "difficulty": "easy",
+    "page": 189
+  },
+  {
+    "id": 195,
+    "agul": "х!уджат",
+    "ru": "спор",
+    "difficulty": "easy",
+    "page": 189
+  },
+  {
+    "id": 196,
+    "agul": "х1ул",
+    "ru": "море",
+    "difficulty": "easy",
+    "page": 190
+  },
+  {
+    "id": 197,
+    "agul": "х1ур",
+    "ru": "село",
+    "difficulty": "easy",
+    "page": 191
+  },
+  {
+    "id": 198,
+    "agul": "х1уч",
+    "ru": "волк",
+    "difficulty": "easy",
+    "page": 191
+  },
+  {
+    "id": 199,
+    "agul": "цихъ",
+    "ru": "круп",
+    "difficulty": "easy",
+    "page": 192
+  },
+  {
+    "id": 200,
+    "agul": "цХах!",
+    "ru": "коза",
+    "difficulty": "easy",
+    "page": 193
+  },
+  {
+    "id": 201,
+    "agul": "ц!уфул",
+    "ru": "очаг",
+    "difficulty": "easy",
+    "page": 196
+  },
+  {
+    "id": 202,
+    "agul": "ц!ухур",
+    "ru": "тлею",
+    "difficulty": "easy",
+    "page": 196
+  },
+  {
+    "id": 203,
+    "agul": "ч1ек1",
+    "ru": "рыба",
+    "difficulty": "easy",
+    "page": 200
+  },
+  {
+    "id": 204,
+    "agul": "ч1ич11",
+    "ru": "ворс",
+    "difficulty": "easy",
+    "page": 201
+  },
+  {
+    "id": 205,
+    "agul": "шаг!йр",
+    "ru": "поэт",
+    "difficulty": "easy",
+    "page": 202
+  },
+  {
+    "id": 206,
+    "agul": "шейт1ан",
+    "ru": "чёрт",
+    "difficulty": "easy",
+    "page": 203
+  },
+  {
+    "id": 207,
+    "agul": "шейъ",
+    "ru": "вещь",
+    "difficulty": "easy",
+    "page": 203
+  },
+  {
+    "id": 208,
+    "agul": "шилт1ём",
+    "ru": "путы",
+    "difficulty": "easy",
+    "page": 203
+  },
+  {
+    "id": 209,
+    "agul": "ь‘аттгалай",
+    "ru": "стог",
+    "difficulty": "easy",
+    "page": 211
+  },
+  {
+    "id": 210,
+    "agul": "ъ4ул",
+    "ru": "мышь",
+    "difficulty": "easy",
+    "page": 212
+  },
+  {
+    "id": 211,
+    "agul": "ъ‘урд",
+    "ru": "зима",
+    "difficulty": "easy",
+    "page": 212
+  },
+  {
+    "id": 212,
+    "agul": "ъ'аййб",
+    "ru": "стыд",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 213,
+    "agul": "ъ'акв",
+    "ru": "свет",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 214,
+    "agul": "ь'утХалид",
+    "ru": "корм",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 215,
+    "agul": "ъ'араба",
+    "ru": "арба",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 216,
+    "agul": "дахъ6",
+    "ru": "тень",
+    "difficulty": "easy",
+    "page": 213
+  },
+  {
+    "id": 217,
+    "agul": "ъ'ашал",
+    "ru": "плач",
+    "difficulty": "easy",
+    "page": 214
+  },
+  {
+    "id": 218,
+    "agul": "ъ'уш",
+    "ru": "ночь",
+    "difficulty": "easy",
+    "page": 215
+  },
+  {
+    "id": 219,
+    "agul": "эхъ4",
+    "ru": "смех",
+    "difficulty": "easy",
+    "page": 217
+  },
+  {
+    "id": 220,
+    "agul": "бет1ур",
+    "ru": "грязь",
+    "difficulty": "easy",
+    "page": 40
+  },
+  {
+    "id": 221,
+    "agul": "бугъа",
+    "ru": "бугай",
+    "difficulty": "easy",
+    "page": 41
+  },
+  {
+    "id": 222,
+    "agul": "ваг!да",
+    "ru": "время",
+    "difficulty": "easy",
+    "page": 43
+  },
+  {
+    "id": 223,
+    "agul": "гуг1ан",
+    "ru": "чулок",
+    "difficulty": "easy",
+    "page": 50
+  },
+  {
+    "id": 224,
+    "agul": "гуч1",
+    "ru": "страх",
+    "difficulty": "easy",
+    "page": 51
+  },
+  {
+    "id": 225,
+    "agul": "гъас",
+    "ru": "нести",
+    "difficulty": "easy",
+    "page": 53
+  },
+  {
+    "id": 226,
+    "agul": "гъилйв",
+    "ru": "рукав",
+    "difficulty": "easy",
+    "page": 54
+  },
+  {
+    "id": 227,
+    "agul": "гъун",
+    "ru": "обрыв",
+    "difficulty": "easy",
+    "page": 54
+  },
+  {
+    "id": 228,
+    "agul": "гъуч",
+    "ru": "копьё",
+    "difficulty": "easy",
+    "page": 55
+  },
+  {
+    "id": 229,
+    "agul": "саь‘ати",
+    "ru": "ушуиа",
+    "difficulty": "easy",
+    "page": 58
+  },
+  {
+    "id": 230,
+    "agul": "гьаькъй",
+    "ru": "плата",
+    "difficulty": "easy",
+    "page": 60
+  },
+  {
+    "id": 231,
+    "agul": "гьёрусаъ",
+    "ru": "везде",
+    "difficulty": "easy",
+    "page": 61
+  },
+  {
+    "id": 232,
+    "agul": "г1йлми",
+    "ru": "наука",
+    "difficulty": "easy",
+    "page": 70
+  },
+  {
+    "id": 233,
+    "agul": "г1убахъ‘",
+    "ru": "вечер",
+    "difficulty": "easy",
+    "page": 70
+  },
+  {
+    "id": 234,
+    "agul": "г!улди",
+    "ru": "парен",
+    "difficulty": "easy",
+    "page": 71
+  },
+  {
+    "id": 235,
+    "agul": "г!ун",
+    "ru": "плечо",
+    "difficulty": "easy",
+    "page": 71
+  },
+  {
+    "id": 236,
+    "agul": "г!урч",
+    "ru": "охота",
+    "difficulty": "easy",
+    "page": 71
+  },
+  {
+    "id": 237,
+    "agul": "джаллат!",
+    "ru": "палач",
+    "difficulty": "easy",
+    "page": 79
+  },
+  {
+    "id": 238,
+    "agul": "джугьут!",
+    "ru": "еврей",
+    "difficulty": "easy",
+    "page": 81
+  },
+  {
+    "id": 239,
+    "agul": "ибц1аракь",
+    "ru": "тесак",
+    "difficulty": "easy",
+    "page": 85
+  },
+  {
+    "id": 240,
+    "agul": "иъ",
+    "ru": "кровь",
+    "difficulty": "easy",
+    "page": 89
+  },
+  {
+    "id": 241,
+    "agul": "йагъц1ур",
+    "ru": "сорок",
+    "difficulty": "easy",
+    "page": 90
+  },
+  {
+    "id": 242,
+    "agul": "йак1в",
+    "ru": "топор",
+    "difficulty": "easy",
+    "page": 91
+  },
+  {
+    "id": 243,
+    "agul": "кулакар-мек!ёр",
+    "ru": "холод",
+    "difficulty": "easy",
+    "page": 103
+  },
+  {
+    "id": 244,
+    "agul": "курц1ул",
+    "ru": "щенок",
+    "difficulty": "easy",
+    "page": 104
+  },
+  {
+    "id": 245,
+    "agul": "къай",
+    "ru": "ножны",
+    "difficulty": "easy",
+    "page": 111
+  },
+  {
+    "id": 246,
+    "agul": "къалтагъ",
+    "ru": "арчак",
+    "difficulty": "easy",
+    "page": 112
+  },
+  {
+    "id": 247,
+    "agul": "къач",
+    "ru": "трава",
+    "difficulty": "easy",
+    "page": 114
+  },
+  {
+    "id": 248,
+    "agul": "къаанун",
+    "ru": "канон",
+    "difficulty": "easy",
+    "page": 114
+  },
+  {
+    "id": 249,
+    "agul": "къирагь",
+    "ru": "берег",
+    "difficulty": "easy",
+    "page": 116
+  },
+  {
+    "id": 250,
+    "agul": "къиргъйлф",
+    "ru": "седой",
+    "difficulty": "easy",
+    "page": 116
+  },
+  {
+    "id": 251,
+    "agul": "къуншй",
+    "ru": "сосед",
+    "difficulty": "easy",
+    "page": 117
+  },
+  {
+    "id": 252,
+    "agul": "къуш",
+    "ru": "птица",
+    "difficulty": "easy",
+    "page": 117
+  },
+  {
+    "id": 253,
+    "agul": "кьабахъ",
+    "ru": "парен",
+    "difficulty": "easy",
+    "page": 118
+  },
+  {
+    "id": 254,
+    "agul": "кьурк!",
+    "ru": "парша",
+    "difficulty": "easy",
+    "page": 122
+  },
+  {
+    "id": 255,
+    "agul": "кь‘ац1",
+    "ru": "щипцы",
+    "difficulty": "easy",
+    "page": 123
+  },
+  {
+    "id": 256,
+    "agul": "къалъ‘й)",
+    "ru": "олово",
+    "difficulty": "easy",
+    "page": 123
+  },
+  {
+    "id": 257,
+    "agul": "к!ампур",
+    "ru": "морда",
+    "difficulty": "easy",
+    "page": 123
+  },
+  {
+    "id": 258,
+    "agul": "к!аш",
+    "ru": "палка",
+    "difficulty": "easy",
+    "page": 124
+  },
+  {
+    "id": 259,
+    "agul": "лаь'лй-мерджан",
+    "ru": "драго",
+    "difficulty": "easy",
+    "page": 127
+  },
+  {
+    "id": 260,
+    "agul": "лихъун",
+    "ru": "танец",
+    "difficulty": "easy",
+    "page": 128
+  },
+  {
+    "id": 261,
+    "agul": "магърйбуст.",
+    "ru": "запад",
+    "difficulty": "easy",
+    "page": 129
+  },
+  {
+    "id": 262,
+    "agul": "маг1нй",
+    "ru": "песня",
+    "difficulty": "easy",
+    "page": 129
+  },
+  {
+    "id": 263,
+    "agul": "маслйх1ат",
+    "ru": "совет",
+    "difficulty": "easy",
+    "page": 130
+  },
+  {
+    "id": 264,
+    "agul": "мек!",
+    "ru": "холод",
+    "difficulty": "easy",
+    "page": 132
+  },
+  {
+    "id": 265,
+    "agul": "мик1й",
+    "ru": "солод",
+    "difficulty": "easy",
+    "page": 132
+  },
+  {
+    "id": 266,
+    "agul": "милёхъ‘в",
+    "ru": "червь",
+    "difficulty": "easy",
+    "page": 132
+  },
+  {
+    "id": 267,
+    "agul": "ниъ",
+    "ru": "запах",
+    "difficulty": "easy",
+    "page": 137
+  },
+  {
+    "id": 268,
+    "agul": "рах1атти",
+    "ru": "легко",
+    "difficulty": "easy",
+    "page": 142
+  },
+  {
+    "id": 269,
+    "agul": "рек1в",
+    "ru": "блеск",
+    "difficulty": "easy",
+    "page": 142
+  },
+  {
+    "id": 270,
+    "agul": "рукъуф",
+    "ru": "сухой",
+    "difficulty": "easy",
+    "page": 143
+  },
+  {
+    "id": 271,
+    "agul": "таг1риф",
+    "ru": "хвала",
+    "difficulty": "easy",
+    "page": 151
+  },
+  {
+    "id": 272,
+    "agul": "ттамгъа",
+    "ru": "тавро",
+    "difficulty": "easy",
+    "page": 154
+  },
+  {
+    "id": 273,
+    "agul": "т!ама",
+    "ru": "шашка",
+    "difficulty": "easy",
+    "page": 156
+  },
+  {
+    "id": 274,
+    "agul": "т!инк1",
+    "ru": "капля",
+    "difficulty": "easy",
+    "page": 157
+  },
+  {
+    "id": 275,
+    "agul": "угъал",
+    "ru": "дождь",
+    "difficulty": "easy",
+    "page": 159
+  },
+  {
+    "id": 276,
+    "agul": "угъар",
+    "ru": "канва",
+    "difficulty": "easy",
+    "page": 159
+  },
+  {
+    "id": 277,
+    "agul": "унёт!",
+    "ru": "бровь",
+    "difficulty": "easy",
+    "page": 160
+  },
+  {
+    "id": 278,
+    "agul": "хайат!",
+    "ru": "нитка",
+    "difficulty": "easy",
+    "page": 170
+  },
+  {
+    "id": 279,
+    "agul": "халкъ",
+    "ru": "народ",
+    "difficulty": "easy",
+    "page": 172
+  },
+  {
+    "id": 280,
+    "agul": "хат!",
+    "ru": "линия",
+    "difficulty": "easy",
+    "page": 173
+  },
+  {
+    "id": 281,
+    "agul": "хук:1",
+    "ru": "феска",
+    "difficulty": "easy",
+    "page": 174
+  },
+  {
+    "id": 282,
+    "agul": "хулагъ",
+    "ru": "крыша",
+    "difficulty": "easy",
+    "page": 175
+  },
+  {
+    "id": 283,
+    "agul": "хурт1ум",
+    "ru": "хобот",
+    "difficulty": "easy",
+    "page": 175
+  },
+  {
+    "id": 284,
+    "agul": "хут!",
+    "ru": "пупок",
+    "difficulty": "easy",
+    "page": 176
+  },
+  {
+    "id": 285,
+    "agul": "хъаркьвас",
+    "ru": "дойти",
+    "difficulty": "easy",
+    "page": 178
+  },
+  {
+    "id": 286,
+    "agul": "хъаттхвайир",
+    "ru": "ханжа",
+    "difficulty": "easy",
+    "page": 180
+  },
+  {
+    "id": 287,
+    "agul": "хъ4уластти",
+    "ru": "назло",
+    "difficulty": "easy",
+    "page": 185
+  },
+  {
+    "id": 288,
+    "agul": "хь‘унт!",
+    "ru": "сопля",
+    "difficulty": "easy",
+    "page": 185
+  },
+  {
+    "id": 289,
+    "agul": "х1акъй",
+    "ru": "плата",
+    "difficulty": "easy",
+    "page": 188
+  },
+  {
+    "id": 290,
+    "agul": "х!арф",
+    "ru": "буква",
+    "difficulty": "easy",
+    "page": 189
+  },
+  {
+    "id": 291,
+    "agul": "х1асрат",
+    "ru": "тоска",
+    "difficulty": "easy",
+    "page": 189
+  },
+  {
+    "id": 292,
+    "agul": "х!уйаг",
+    "ru": "котёл",
+    "difficulty": "easy",
+    "page": 190
+  },
+  {
+    "id": 293,
+    "agul": "х!улдан",
+    "ru": "сталь",
+    "difficulty": "easy",
+    "page": 190
+  },
+  {
+    "id": 294,
+    "agul": "ц!ик1аб",
+    "ru": "пирог",
+    "difficulty": "easy",
+    "page": 195
+  },
+  {
+    "id": 295,
+    "agul": "ц1имйх1ил",
+    "ru": "искра",
+    "difficulty": "easy",
+    "page": 195
+  },
+  {
+    "id": 296,
+    "agul": "ч!ар",
+    "ru": "волос",
+    "difficulty": "easy",
+    "page": 200
+  },
+  {
+    "id": 297,
+    "agul": "ч1ид",
+    "ru": "блоха",
+    "difficulty": "easy",
+    "page": 200
+  },
+  {
+    "id": 298,
+    "agul": "шут!",
+    "ru": "щипок",
+    "difficulty": "easy",
+    "page": 204
+  },
+  {
+    "id": 299,
+    "agul": "ъаттвес",
+    "ru": "выйти",
+    "difficulty": "easy",
+    "page": 207
+  },
+  {
+    "id": 300,
+    "agul": "ъахис",
+    "ru": "войти",
+    "difficulty": "easy",
+    "page": 208
+  },
+  {
+    "id": 1,
+    "agul": "г1арза",
+    "ru": "заявление",
+    "difficulty": "hard",
+    "page": 66
+  },
+  {
+    "id": 2,
+    "agul": "къуншйваьл",
+    "ru": "соседство",
+    "difficulty": "hard",
+    "page": 117
+  },
+  {
+    "id": 3,
+    "agul": "наг1нат",
+    "ru": "проклятие",
+    "difficulty": "hard",
+    "page": 136
+  },
+  {
+    "id": 4,
+    "agul": "рукъал",
+    "ru": "проклятие",
+    "difficulty": "hard",
+    "page": 143
+  },
+  {
+    "id": 5,
+    "agul": "хьуч1йрх1уб",
+    "ru": "волочение",
+    "difficulty": "hard",
+    "page": 184
+  },
+  {
+    "id": 6,
+    "agul": "х1ал",
+    "ru": "состояние",
+    "difficulty": "hard",
+    "page": 188
+  },
+  {
+    "id": 7,
+    "agul": "ц1урук!",
+    "ru": "утолщение",
+    "difficulty": "hard",
+    "page": 196
+  },
+  {
+    "id": 8,
+    "agul": "эвх!алат",
+    "ru": "состояние",
+    "difficulty": "hard",
+    "page": 215
+  },
+  {
+    "id": 9,
+    "agul": "маг1на",
+    "ru": "содержание",
+    "difficulty": "hard",
+    "page": 129
+  },
+  {
+    "id": 10,
+    "agul": "гъудркум.",
+    "ru": "наступление",
+    "difficulty": "hard",
+    "page": 61
+  },
+  {
+    "id": 11,
+    "agul": "гТашкъ",
+    "ru": "вдохновение",
+    "difficulty": "hard",
+    "page": 69
+  },
+  {
+    "id": 12,
+    "agul": "х!уджум",
+    "ru": "наступление",
+    "difficulty": "hard",
+    "page": 190
+  },
+  {
+    "id": 13,
+    "agul": "х!укумат",
+    "ru": "государство",
+    "difficulty": "hard",
+    "page": 190
+  },
+  {
+    "id": 14,
+    "agul": "х1уппёхьанвел",
+    "ru": "овцеводство",
+    "difficulty": "hard",
+    "page": 191
+  },
+  {
+    "id": 15,
+    "agul": "вакьйъ‘а",
+    "ru": "происшествие",
+    "difficulty": "hard",
+    "page": 44
+  },
+  {
+    "id": 16,
+    "agul": "т1алабчиваьл",
+    "ru": "попрошайничество",
+    "difficulty": "hard",
+    "page": 156
+  },
+  {
+    "id": 17,
+    "agul": "девлёт",
+    "ru": "богатство",
+    "difficulty": "hard",
+    "page": 74
+  },
+  {
+    "id": 18,
+    "agul": "дуллух",
+    "ru": "жалование",
+    "difficulty": "hard",
+    "page": 77
+  },
+  {
+    "id": 19,
+    "agul": "кубул",
+    "ru": "ревматизм",
+    "difficulty": "hard",
+    "page": 103
+  },
+  {
+    "id": 20,
+    "agul": "кьастт",
+    "ru": "намерение",
+    "difficulty": "hard",
+    "page": 119
+  },
+  {
+    "id": 21,
+    "agul": "магХйшат",
+    "ru": "хозяйство",
+    "difficulty": "hard",
+    "page": 129
+  },
+  {
+    "id": 22,
+    "agul": "гуман",
+    "ru": "подозрение",
+    "difficulty": "hard",
+    "page": 51
+  },
+  {
+    "id": 23,
+    "agul": "гьунар",
+    "ru": "достижение",
+    "difficulty": "hard",
+    "page": 62
+  },
+  {
+    "id": 24,
+    "agul": "киф",
+    "ru": "блаженство",
+    "difficulty": "hard",
+    "page": 102
+  },
+  {
+    "id": 25,
+    "agul": "кьадар",
+    "ru": "количество",
+    "difficulty": "hard",
+    "page": 118
+  },
+  {
+    "id": 26,
+    "agul": "ризкь",
+    "ru": "пропитание",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 27,
+    "agul": "тамахТсузваьл",
+    "ru": "бескорыстие",
+    "difficulty": "hard",
+    "page": 151
+  },
+  {
+    "id": 28,
+    "agul": "причинять",
+    "ru": "беспокойство",
+    "difficulty": "hard",
+    "page": 88
+  },
+  {
+    "id": 29,
+    "agul": "кефй",
+    "ru": "самочувствие",
+    "difficulty": "hard",
+    "page": 99
+  },
+  {
+    "id": 30,
+    "agul": "фатфа",
+    "ru": "подстрекательство",
+    "difficulty": "hard",
+    "page": 165
+  },
+  {
+    "id": 31,
+    "agul": "дараджа",
+    "ru": "положение",
+    "difficulty": "hard",
+    "page": 73
+  },
+  {
+    "id": 32,
+    "agul": "дарман",
+    "ru": "лекарство",
+    "difficulty": "hard",
+    "page": 73
+  },
+  {
+    "id": 33,
+    "agul": "джаза",
+    "ru": "наказание",
+    "difficulty": "hard",
+    "page": 78
+  },
+  {
+    "id": 34,
+    "agul": "пправлёни",
+    "ru": "правление",
+    "difficulty": "hard",
+    "page": 140
+  },
+  {
+    "id": 35,
+    "agul": "идара",
+    "ru": "учреждение",
+    "difficulty": "hard",
+    "page": 85
+  },
+  {
+    "id": 36,
+    "agul": "манзйл",
+    "ru": "расстояние",
+    "difficulty": "hard",
+    "page": 130
+  },
+  {
+    "id": 37,
+    "agul": "cyxlyp",
+    "ru": "волшебство",
+    "difficulty": "hard",
+    "page": 149
+  },
+  {
+    "id": 38,
+    "agul": "луг!вал)",
+    "ru": "разумность",
+    "difficulty": "hard",
+    "page": 213
+  },
+  {
+    "id": 39,
+    "agul": "х1илла",
+    "ru": "нерадивость",
+    "difficulty": "hard",
+    "page": 189
+  },
+  {
+    "id": 40,
+    "agul": "кьанаджагъ",
+    "ru": "понятливость",
+    "difficulty": "hard",
+    "page": 112
+  },
+  {
+    "id": 41,
+    "agul": "эх!тййат",
+    "ru": "осторожность",
+    "difficulty": "hard",
+    "page": 217
+  },
+  {
+    "id": 42,
+    "agul": "хайирлувел",
+    "ru": "выгодность",
+    "difficulty": "hard",
+    "page": 171
+  },
+  {
+    "id": 43,
+    "agul": "мункйнвел",
+    "ru": "возможность",
+    "difficulty": "hard",
+    "page": 134
+  },
+  {
+    "id": 44,
+    "agul": "зигьйм",
+    "ru": "понятливость",
+    "difficulty": "hard",
+    "page": 84
+  },
+  {
+    "id": 45,
+    "agul": "эйёсузваьл",
+    "ru": "бесхозяйственность",
+    "difficulty": "hard",
+    "page": 216
+  },
+  {
+    "id": 46,
+    "agul": "фуре",
+    "ru": "заносчивость",
+    "difficulty": "hard",
+    "page": 169
+  },
+  {
+    "id": 47,
+    "agul": "луч!",
+    "ru": "нетель",
+    "difficulty": "hard",
+    "page": 128
+  },
+  {
+    "id": 48,
+    "agul": "санйъ‘ат",
+    "ru": "орудие",
+    "difficulty": "hard",
+    "page": 147
+  },
+  {
+    "id": 49,
+    "agul": "лук1ваьл",
+    "ru": "рабство",
+    "difficulty": "hard",
+    "page": 128
+  },
+  {
+    "id": 50,
+    "agul": "шарт!",
+    "ru": "условие",
+    "difficulty": "hard",
+    "page": 203
+  },
+  {
+    "id": 51,
+    "agul": "их1ттйбар",
+    "ru": "доверие",
+    "difficulty": "hard",
+    "page": 213
+  },
+  {
+    "id": 52,
+    "agul": "эх1ттйбар",
+    "ru": "доверие",
+    "difficulty": "hard",
+    "page": 217
+  },
+  {
+    "id": 53,
+    "agul": "джемаъ'ат",
+    "ru": "общество",
+    "difficulty": "hard",
+    "page": 80
+  },
+  {
+    "id": 54,
+    "agul": "х!улмат",
+    "ru": "уважение",
+    "difficulty": "hard",
+    "page": 190
+  },
+  {
+    "id": 55,
+    "agul": "нийат",
+    "ru": "мнение",
+    "difficulty": "hard",
+    "page": 137
+  },
+  {
+    "id": 56,
+    "agul": "икьрар",
+    "ru": "решение",
+    "difficulty": "hard",
+    "page": 86
+  },
+  {
+    "id": 57,
+    "agul": "ишттарак",
+    "ru": "участие",
+    "difficulty": "hard",
+    "page": 89
+  },
+  {
+    "id": 58,
+    "agul": "хабар",
+    "ru": "известие",
+    "difficulty": "hard",
+    "page": 170
+  },
+  {
+    "id": 59,
+    "agul": "хатйр",
+    "ru": "уважение",
+    "difficulty": "hard",
+    "page": 173
+  },
+  {
+    "id": 60,
+    "agul": "хьучуркьуб",
+    "ru": "внимание",
+    "difficulty": "hard",
+    "page": 184
+  },
+  {
+    "id": 61,
+    "agul": "бизарвел",
+    "ru": "мучение",
+    "difficulty": "hard",
+    "page": 41
+  },
+  {
+    "id": 62,
+    "agul": "мурад",
+    "ru": "желание",
+    "difficulty": "hard",
+    "page": 134
+  },
+  {
+    "id": 63,
+    "agul": "сабрани",
+    "ru": "собрание",
+    "difficulty": "hard",
+    "page": 145
+  },
+  {
+    "id": 64,
+    "agul": "хь‘ал",
+    "ru": "злость",
+    "difficulty": "hard",
+    "page": 184
+  },
+  {
+    "id": 65,
+    "agul": "рах!ми",
+    "ru": "милость",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 66,
+    "agul": "маг1ракат",
+    "ru": "пышность",
+    "difficulty": "hard",
+    "page": 129
+  },
+  {
+    "id": 67,
+    "agul": "ттуз",
+    "ru": "ость",
+    "difficulty": "hard",
+    "page": 155
+  },
+  {
+    "id": 68,
+    "agul": "иркк",
+    "ru": "кость",
+    "difficulty": "hard",
+    "page": 87
+  },
+  {
+    "id": 69,
+    "agul": "фандйгарвел",
+    "ru": "хитрость",
+    "difficulty": "hard",
+    "page": 165
+  },
+  {
+    "id": 70,
+    "agul": "г1ибарат",
+    "ru": "состоящий",
+    "difficulty": "hard",
+    "page": 70
+  },
+  {
+    "id": 71,
+    "agul": "къадпеф",
+    "ru": "двадцатый",
+    "difficulty": "hard",
+    "page": 111
+  },
+  {
+    "id": 72,
+    "agul": "наг!натлу",
+    "ru": "проклятый",
+    "difficulty": "hard",
+    "page": 136
+  },
+  {
+    "id": 73,
+    "agul": "ъаттвереф",
+    "ru": "выходящий",
+    "difficulty": "hard",
+    "page": 207
+  },
+  {
+    "id": 74,
+    "agul": "заг!йф",
+    "ru": "бессильный",
+    "difficulty": "hard",
+    "page": 82
+  },
+  {
+    "id": 75,
+    "agul": "зааг!йф",
+    "ru": "бессильный",
+    "difficulty": "hard",
+    "page": 83
+  },
+  {
+    "id": 76,
+    "agul": "кьах1ат",
+    "ru": "дефицитный",
+    "difficulty": "hard",
+    "page": 119
+  },
+  {
+    "id": 77,
+    "agul": "кь‘ах!ат",
+    "ru": "дефицитный",
+    "difficulty": "hard",
+    "page": 123
+  },
+  {
+    "id": 78,
+    "agul": "ц!айё",
+    "ru": "хабарновое",
+    "difficulty": "hard",
+    "page": 170
+  },
+  {
+    "id": 79,
+    "agul": "ц1ерк1у",
+    "ru": "внебрачный",
+    "difficulty": "hard",
+    "page": 195
+  },
+  {
+    "id": 80,
+    "agul": "къайгъусуз",
+    "ru": "беззаботный",
+    "difficulty": "hard",
+    "page": 111
+  },
+  {
+    "id": 81,
+    "agul": "мут!аг!",
+    "ru": "подчинённый",
+    "difficulty": "hard",
+    "page": 135
+  },
+  {
+    "id": 82,
+    "agul": "г1аджёбин",
+    "ru": "удивительный",
+    "difficulty": "hard",
+    "page": 64
+  },
+  {
+    "id": 83,
+    "agul": "г1ант1ёф",
+    "ru": "избалованный",
+    "difficulty": "hard",
+    "page": 66
+  },
+  {
+    "id": 84,
+    "agul": "г!ашкъунинф",
+    "ru": "вдохновенный",
+    "difficulty": "hard",
+    "page": 69
+  },
+  {
+    "id": 85,
+    "agul": "г!аарсуз",
+    "ru": "бессовестный",
+    "difficulty": "hard",
+    "page": 70
+  },
+  {
+    "id": 86,
+    "agul": "къудур",
+    "ru": "сумасбродный",
+    "difficulty": "hard",
+    "page": 116
+  },
+  {
+    "id": 87,
+    "agul": "къукъуф",
+    "ru": "затвердевший",
+    "difficulty": "hard",
+    "page": 116
+  },
+  {
+    "id": 88,
+    "agul": "тамах1суз",
+    "ru": "бескорыстный",
+    "difficulty": "hard",
+    "page": 151
+  },
+  {
+    "id": 89,
+    "agul": "х1ашари",
+    "ru": "сладострастный",
+    "difficulty": "hard",
+    "page": 189
+  },
+  {
+    "id": 90,
+    "agul": "х1укуматин",
+    "ru": "государственный",
+    "difficulty": "hard",
+    "page": 190
+  },
+  {
+    "id": 91,
+    "agul": "бицТиф",
+    "ru": "маленький",
+    "difficulty": "hard",
+    "page": 41
+  },
+  {
+    "id": 92,
+    "agul": "гучТаф",
+    "ru": "трусливый",
+    "difficulty": "hard",
+    "page": 51
+  },
+  {
+    "id": 93,
+    "agul": "ибарат",
+    "ru": "состоящий",
+    "difficulty": "hard",
+    "page": 85
+  },
+  {
+    "id": 94,
+    "agul": "йавашттинф",
+    "ru": "медленный",
+    "difficulty": "hard",
+    "page": 90
+  },
+  {
+    "id": 95,
+    "agul": "цХахХур",
+    "ru": "цахурский",
+    "difficulty": "hard",
+    "page": 193
+  },
+  {
+    "id": 96,
+    "agul": "бедбахтт",
+    "ru": "несчастный",
+    "difficulty": "hard",
+    "page": 40
+  },
+  {
+    "id": 97,
+    "agul": "гьалдинф",
+    "ru": "теперешний",
+    "difficulty": "hard",
+    "page": 57
+  },
+  {
+    "id": 98,
+    "agul": "гХанабагунф",
+    "ru": "внутренний",
+    "difficulty": "hard",
+    "page": 65
+  },
+  {
+    "id": 99,
+    "agul": "гГашукь",
+    "ru": "влюблённый",
+    "difficulty": "hard",
+    "page": 69
+  },
+  {
+    "id": 100,
+    "agul": "кваса",
+    "ru": "безбородый",
+    "difficulty": "hard",
+    "page": 95
+  },
+  {
+    "id": 101,
+    "agul": "кефсуз",
+    "ru": "нездоровый",
+    "difficulty": "hard",
+    "page": 99
+  },
+  {
+    "id": 102,
+    "agul": "хайдякь",
+    "ru": "кайтагский",
+    "difficulty": "hard",
+    "page": 171
+  },
+  {
+    "id": 103,
+    "agul": "варттяллеф",
+    "ru": "алёдверхний",
+    "difficulty": "hard",
+    "page": 44
+  },
+  {
+    "id": 104,
+    "agul": "герёкф",
+    "ru": "вуййднужный",
+    "difficulty": "hard",
+    "page": 49
+  },
+  {
+    "id": 105,
+    "agul": "куруф",
+    "ru": "запачканный",
+    "difficulty": "hard",
+    "page": 104
+  },
+  {
+    "id": 106,
+    "agul": "кканё-дакканф",
+    "ru": "необходимое",
+    "difficulty": "hard",
+    "page": 105
+  },
+  {
+    "id": 107,
+    "agul": "пекаьрф",
+    "ru": "безработный",
+    "difficulty": "hard",
+    "page": 138
+  },
+  {
+    "id": 108,
+    "agul": "уьзуькьара",
+    "ru": "посрамлённый",
+    "difficulty": "hard",
+    "page": 163
+  },
+  {
+    "id": 109,
+    "agul": "цацанф",
+    "ru": "прошлогодний",
+    "difficulty": "hard",
+    "page": 192
+  },
+  {
+    "id": 110,
+    "agul": "гХавам",
+    "ru": "невежественный",
+    "difficulty": "hard",
+    "page": 63
+  },
+  {
+    "id": 111,
+    "agul": "д.",
+    "ru": "пефпервый",
+    "difficulty": "hard",
+    "page": 138
+  },
+  {
+    "id": 112,
+    "agul": "ушу",
+    "ru": "прошедший",
+    "difficulty": "hard",
+    "page": 162
+  },
+  {
+    "id": 113,
+    "agul": "даллу",
+    "ru": "сумашедший",
+    "difficulty": "hard",
+    "page": 72
+  },
+  {
+    "id": 114,
+    "agul": "ран",
+    "ru": "идемилеший",
+    "difficulty": "hard",
+    "page": 73
+  },
+  {
+    "id": 115,
+    "agul": "айаф",
+    "ru": "заботливый",
+    "difficulty": "hard",
+    "page": 111
+  },
+  {
+    "id": 116,
+    "agul": "ранин",
+    "ru": "деревянный",
+    "difficulty": "hard",
+    "page": 126
+  },
+  {
+    "id": 117,
+    "agul": "ламуссуз",
+    "ru": "бесчестный",
+    "difficulty": "hard",
+    "page": 127
+  },
+  {
+    "id": 118,
+    "agul": "фана",
+    "ru": "редкотленный",
+    "difficulty": "hard",
+    "page": 165
+  },
+  {
+    "id": 119,
+    "agul": "джизвй",
+    "ru": "незначительный",
+    "difficulty": "hard",
+    "page": 80
+  },
+  {
+    "id": 120,
+    "agul": "вах1шй",
+    "ru": "дикий",
+    "difficulty": "hard",
+    "page": 45
+  },
+  {
+    "id": 121,
+    "agul": "ислах!",
+    "ru": "тихий",
+    "difficulty": "hard",
+    "page": 87
+  },
+  {
+    "id": 122,
+    "agul": "кьац1улф",
+    "ru": "голый",
+    "difficulty": "hard",
+    "page": 120
+  },
+  {
+    "id": 123,
+    "agul": "к!илйнф",
+    "ru": "целый",
+    "difficulty": "hard",
+    "page": 125
+  },
+  {
+    "id": 124,
+    "agul": "уртакъ",
+    "ru": "общий",
+    "difficulty": "hard",
+    "page": 161
+  },
+  {
+    "id": 125,
+    "agul": "ц1ейёф",
+    "ru": "новый",
+    "difficulty": "hard",
+    "page": 195
+  },
+  {
+    "id": 126,
+    "agul": "г!аджйз",
+    "ru": "слабый",
+    "difficulty": "hard",
+    "page": 64
+  },
+  {
+    "id": 127,
+    "agul": "г1анч1йр",
+    "ru": "яловый",
+    "difficulty": "hard",
+    "page": 66
+  },
+  {
+    "id": 128,
+    "agul": "г!удулф",
+    "ru": "мягкий",
+    "difficulty": "hard",
+    "page": 70
+  },
+  {
+    "id": 129,
+    "agul": "зйгъ-зйгъ",
+    "ru": "жадный",
+    "difficulty": "hard",
+    "page": 84
+  },
+  {
+    "id": 130,
+    "agul": "ибг1аф",
+    "ru": "тёплый",
+    "difficulty": "hard",
+    "page": 85
+  },
+  {
+    "id": 131,
+    "agul": "кйхъуруф",
+    "ru": "тухлый",
+    "difficulty": "hard",
+    "page": 102
+  },
+  {
+    "id": 132,
+    "agul": "кьабахъинф",
+    "ru": "задний",
+    "difficulty": "hard",
+    "page": 118
+  },
+  {
+    "id": 133,
+    "agul": "кьах!ал",
+    "ru": "смелый",
+    "difficulty": "hard",
+    "page": 119
+  },
+  {
+    "id": 134,
+    "agul": "муч1ёф",
+    "ru": "тёмный",
+    "difficulty": "hard",
+    "page": 135
+  },
+  {
+    "id": 135,
+    "agul": "рах!атинф",
+    "ru": "лёгкий",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 136,
+    "agul": "т!ах!урф",
+    "ru": "мутный",
+    "difficulty": "hard",
+    "page": 156
+  },
+  {
+    "id": 137,
+    "agul": "х1урджалф",
+    "ru": "правый",
+    "difficulty": "hard",
+    "page": 191
+  },
+  {
+    "id": 138,
+    "agul": "ц!урёф",
+    "ru": "старый",
+    "difficulty": "hard",
+    "page": 195
+  },
+  {
+    "id": 139,
+    "agul": "ъац1уф",
+    "ru": "полный",
+    "difficulty": "hard",
+    "page": 208
+  },
+  {
+    "id": 140,
+    "agul": "ь‘агвал",
+    "ru": "жалкий",
+    "difficulty": "hard",
+    "page": 210
+  },
+  {
+    "id": 141,
+    "agul": "ъ‘уссёф",
+    "ru": "старый",
+    "difficulty": "hard",
+    "page": 212
+  },
+  {
+    "id": 142,
+    "agul": "ъ4уч1ёф",
+    "ru": "кислый",
+    "difficulty": "hard",
+    "page": 212
+  },
+  {
+    "id": 143,
+    "agul": "иръ‘аф",
+    "ru": "широкий",
+    "difficulty": "hard",
+    "page": 87
+  },
+  {
+    "id": 144,
+    "agul": "къикъ‘аф",
+    "ru": "тяжёлый",
+    "difficulty": "hard",
+    "page": 115
+  },
+  {
+    "id": 145,
+    "agul": "к1еф",
+    "ru": "умерший",
+    "difficulty": "hard",
+    "page": 125
+  },
+  {
+    "id": 146,
+    "agul": "сач!укь",
+    "ru": "немного",
+    "difficulty": "hard",
+    "page": 147
+  },
+  {
+    "id": 147,
+    "agul": "т1акъванф",
+    "ru": "грязный",
+    "difficulty": "hard",
+    "page": 156
+  },
+  {
+    "id": 148,
+    "agul": "х1азурф",
+    "ru": "готовый",
+    "difficulty": "hard",
+    "page": 187
+  },
+  {
+    "id": 149,
+    "agul": "ч1укь",
+    "ru": "немного",
+    "difficulty": "hard",
+    "page": 201
+  },
+  {
+    "id": 150,
+    "agul": "шинйх!",
+    "ru": "широкий",
+    "difficulty": "hard",
+    "page": 203
+  },
+  {
+    "id": 151,
+    "agul": "ъ4ашуф",
+    "ru": "влажный",
+    "difficulty": "hard",
+    "page": 211
+  },
+  {
+    "id": 152,
+    "agul": "ъ‘иръ‘аф",
+    "ru": "широкий",
+    "difficulty": "hard",
+    "page": 211
+  },
+  {
+    "id": 153,
+    "agul": "ъ4урчГеф",
+    "ru": "пёстрый",
+    "difficulty": "hard",
+    "page": 212
+  },
+  {
+    "id": 154,
+    "agul": "г!аквёд",
+    "ru": "светлый",
+    "difficulty": "hard",
+    "page": 213
+  },
+  {
+    "id": 155,
+    "agul": "ъ?урус",
+    "ru": "русский",
+    "difficulty": "hard",
+    "page": 214
+  },
+  {
+    "id": 156,
+    "agul": "дахъуф",
+    "ru": "открытый",
+    "difficulty": "hard",
+    "page": 74
+  },
+  {
+    "id": 157,
+    "agul": "джикъ‘аф",
+    "ru": "короткий",
+    "difficulty": "hard",
+    "page": 80
+  },
+  {
+    "id": 158,
+    "agul": "йаг1аф",
+    "ru": "знакомый",
+    "difficulty": "hard",
+    "page": 91
+  },
+  {
+    "id": 159,
+    "agul": "къарйб",
+    "ru": "странный",
+    "difficulty": "hard",
+    "page": 113
+  },
+  {
+    "id": 160,
+    "agul": "къуллугъчи",
+    "ru": "служащий",
+    "difficulty": "hard",
+    "page": 116
+  },
+  {
+    "id": 161,
+    "agul": "ругъуф",
+    "ru": "холодный",
+    "difficulty": "hard",
+    "page": 143
+  },
+  {
+    "id": 162,
+    "agul": "ттиъанф",
+    "ru": "нынешний",
+    "difficulty": "hard",
+    "page": 155
+  },
+  {
+    "id": 163,
+    "agul": "ъ'аджаб",
+    "ru": "странный",
+    "difficulty": "hard",
+    "page": 212
+  },
+  {
+    "id": 164,
+    "agul": "ъ'ашаф",
+    "ru": "плачущий",
+    "difficulty": "hard",
+    "page": 214
+  },
+  {
+    "id": 165,
+    "agul": "г!ифц!ур",
+    "ru": "пятьдесят",
+    "difficulty": "hard",
+    "page": 70
+  },
+  {
+    "id": 166,
+    "agul": "г1уд",
+    "ru": "куропатка",
+    "difficulty": "hard",
+    "page": 70
+  },
+  {
+    "id": 167,
+    "agul": "ч!ул",
+    "ru": "ручкакосы",
+    "difficulty": "hard",
+    "page": 76
+  },
+  {
+    "id": 168,
+    "agul": "йагъалас-йагъа",
+    "ru": "ежедневно",
+    "difficulty": "hard",
+    "page": 90
+  },
+  {
+    "id": 169,
+    "agul": "йарц1ур",
+    "ru": "семьдесят",
+    "difficulty": "hard",
+    "page": 92
+  },
+  {
+    "id": 170,
+    "agul": "курмаг!ан",
+    "ru": "улдымоход",
+    "difficulty": "hard",
+    "page": 104
+  },
+  {
+    "id": 171,
+    "agul": "къалаблух",
+    "ru": "переполох",
+    "difficulty": "hard",
+    "page": 112
+  },
+  {
+    "id": 172,
+    "agul": "къалайчи",
+    "ru": "лудилыцик",
+    "difficulty": "hard",
+    "page": 112
+  },
+  {
+    "id": 173,
+    "agul": "къачагъ",
+    "ru": "разбойник",
+    "difficulty": "hard",
+    "page": 114
+  },
+  {
+    "id": 174,
+    "agul": "къумарбаз",
+    "ru": "картёжник",
+    "difficulty": "hard",
+    "page": 117
+  },
+  {
+    "id": 175,
+    "agul": "къурч",
+    "ru": "развалины",
+    "difficulty": "hard",
+    "page": 117
+  },
+  {
+    "id": 176,
+    "agul": "к!андйлай",
+    "ru": "металличе",
+    "difficulty": "hard",
+    "page": 123
+  },
+  {
+    "id": 177,
+    "agul": "мах!",
+    "ru": "сыворотка",
+    "difficulty": "hard",
+    "page": 131
+  },
+  {
+    "id": 178,
+    "agul": "нах!акьвел",
+    "ru": "неправота",
+    "difficulty": "hard",
+    "page": 136
+  },
+  {
+    "id": 179,
+    "agul": "т1иръ‘",
+    "ru": "кустарник",
+    "difficulty": "hard",
+    "page": 157
+  },
+  {
+    "id": 180,
+    "agul": "хъуйёф",
+    "ru": "имеющийся",
+    "difficulty": "hard",
+    "page": 182
+  },
+  {
+    "id": 181,
+    "agul": "х1амбал",
+    "ru": "носильщик",
+    "difficulty": "hard",
+    "page": 188
+  },
+  {
+    "id": 182,
+    "agul": "гьагйдах1ан",
+    "ru": "вонстолько",
+    "difficulty": "hard",
+    "page": 56
+  },
+  {
+    "id": 183,
+    "agul": "гьамйдах1ан",
+    "ru": "вотстолько",
+    "difficulty": "hard",
+    "page": 58
+  },
+  {
+    "id": 184,
+    "agul": "гьатйдах1ан",
+    "ru": "вонстолько",
+    "difficulty": "hard",
+    "page": 59
+  },
+  {
+    "id": 185,
+    "agul": "г!аруцай",
+    "ru": "бездельник",
+    "difficulty": "hard",
+    "page": 67
+  },
+  {
+    "id": 186,
+    "agul": "къакъа",
+    "ru": "кудахтанье",
+    "difficulty": "hard",
+    "page": 112
+  },
+  {
+    "id": 187,
+    "agul": "ма1рк1в",
+    "ru": "чертополох",
+    "difficulty": "hard",
+    "page": 131
+  },
+  {
+    "id": 188,
+    "agul": "т1урь‘ар",
+    "ru": "ножкистола",
+    "difficulty": "hard",
+    "page": 161
+  },
+  {
+    "id": 189,
+    "agul": "фагъучХуне",
+    "ru": "лунавзошла",
+    "difficulty": "hard",
+    "page": 164
+  },
+  {
+    "id": 190,
+    "agul": "чирагъ",
+    "ru": "светильник",
+    "difficulty": "hard",
+    "page": 198
+  },
+  {
+    "id": 191,
+    "agul": "ъ‘арй",
+    "ru": "порожняком",
+    "difficulty": "hard",
+    "page": 211
+  },
+  {
+    "id": 192,
+    "agul": "гъуйанас",
+    "ru": "братьвзятку",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 193,
+    "agul": "хулаг!ан",
+    "ru": "домохозяйка",
+    "difficulty": "hard",
+    "page": 175
+  },
+  {
+    "id": 194,
+    "agul": "нйг1вай)",
+    "ru": "сераяворона",
+    "difficulty": "hard",
+    "page": 185
+  },
+  {
+    "id": 195,
+    "agul": "ъ4айй",
+    "ru": "оченьсильно",
+    "difficulty": "hard",
+    "page": 210
+  },
+  {
+    "id": 196,
+    "agul": "элх!ад",
+    "ru": "воскресенье",
+    "difficulty": "hard",
+    "page": 216
+  },
+  {
+    "id": 197,
+    "agul": "рехъ‘)",
+    "ru": "предсказательница",
+    "difficulty": "hard",
+    "page": 101
+  },
+  {
+    "id": 198,
+    "agul": "джагварф",
+    "ru": "белый",
+    "difficulty": "hard",
+    "page": 78
+  },
+  {
+    "id": 199,
+    "agul": "джахвал",
+    "ru": "дикое",
+    "difficulty": "hard",
+    "page": 80
+  },
+  {
+    "id": 200,
+    "agul": "раттаккай",
+    "ru": "нищий",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 201,
+    "agul": "вольно",
+    "ru": "много",
+    "difficulty": "hard",
+    "page": 174
+  },
+  {
+    "id": 202,
+    "agul": "хьилабанф",
+    "ru": "пеший",
+    "difficulty": "hard",
+    "page": 186
+  },
+  {
+    "id": 203,
+    "agul": "чиппйлф",
+    "ru": "левый",
+    "difficulty": "hard",
+    "page": 198
+  },
+  {
+    "id": 204,
+    "agul": "гугуртин",
+    "ru": "серный",
+    "difficulty": "hard",
+    "page": 50
+  },
+  {
+    "id": 205,
+    "agul": "куьгьна",
+    "ru": "старый",
+    "difficulty": "hard",
+    "page": 105
+  },
+  {
+    "id": 206,
+    "agul": "пукар",
+    "ru": "нужный",
+    "difficulty": "hard",
+    "page": 139
+  },
+  {
+    "id": 207,
+    "agul": "сайрак",
+    "ru": "редкий",
+    "difficulty": "hard",
+    "page": 146
+  },
+  {
+    "id": 208,
+    "agul": "хьуьхьёф",
+    "ru": "жёлтый",
+    "difficulty": "hard",
+    "page": 184
+  },
+  {
+    "id": 209,
+    "agul": "хьебаф",
+    "ru": "низкий",
+    "difficulty": "hard",
+    "page": 185
+  },
+  {
+    "id": 210,
+    "agul": "хьимёф",
+    "ru": "жидкий",
+    "difficulty": "hard",
+    "page": 186
+  },
+  {
+    "id": 211,
+    "agul": "варттй",
+    "ru": "верхний",
+    "difficulty": "hard",
+    "page": 45
+  },
+  {
+    "id": 212,
+    "agul": "девлетлу",
+    "ru": "богатый",
+    "difficulty": "hard",
+    "page": 74
+  },
+  {
+    "id": 213,
+    "agul": "ирхёф",
+    "ru": "длинный",
+    "difficulty": "hard",
+    "page": 87
+  },
+  {
+    "id": 214,
+    "agul": "иттёф",
+    "ru": "сладкий",
+    "difficulty": "hard",
+    "page": 88
+  },
+  {
+    "id": 215,
+    "agul": "кеедаркуф",
+    "ru": "отлогий",
+    "difficulty": "hard",
+    "page": 100
+  },
+  {
+    "id": 216,
+    "agul": "кканёф",
+    "ru": "любимый",
+    "difficulty": "hard",
+    "page": 106
+  },
+  {
+    "id": 217,
+    "agul": "кьуваткаьф",
+    "ru": "сильный",
+    "difficulty": "hard",
+    "page": 121
+  },
+  {
+    "id": 218,
+    "agul": "кьлкьунф",
+    "ru": "горький",
+    "difficulty": "hard",
+    "page": 121
+  },
+  {
+    "id": 219,
+    "agul": "чагьин",
+    "ru": "царский",
+    "difficulty": "hard",
+    "page": 140
+  },
+  {
+    "id": 220,
+    "agul": "рабучи",
+    "ru": "рабочий",
+    "difficulty": "hard",
+    "page": 141
+  },
+  {
+    "id": 221,
+    "agul": "рухуф",
+    "ru": "вязаный",
+    "difficulty": "hard",
+    "page": 144
+  },
+  {
+    "id": 222,
+    "agul": "суьваьф",
+    "ru": "толстый",
+    "difficulty": "hard",
+    "page": 150
+  },
+  {
+    "id": 223,
+    "agul": "тагТдёф",
+    "ru": "быстрый",
+    "difficulty": "hard",
+    "page": 151
+  },
+  {
+    "id": 224,
+    "agul": "темнел",
+    "ru": "ленивый",
+    "difficulty": "hard",
+    "page": 152
+  },
+  {
+    "id": 225,
+    "agul": "удйгьанф",
+    "ru": "прошлый",
+    "difficulty": "hard",
+    "page": 159
+  },
+  {
+    "id": 226,
+    "agul": "удйгьдинф",
+    "ru": "прежний",
+    "difficulty": "hard",
+    "page": 159
+  },
+  {
+    "id": 227,
+    "agul": "фацуф",
+    "ru": "пленный",
+    "difficulty": "hard",
+    "page": 166
+  },
+  {
+    "id": 228,
+    "agul": "химхёф",
+    "ru": "хрупкий",
+    "difficulty": "hard",
+    "page": 174
+  },
+  {
+    "id": 229,
+    "agul": "чатйнф",
+    "ru": "трудный",
+    "difficulty": "hard",
+    "page": 197
+  },
+  {
+    "id": 230,
+    "agul": "гашйнф",
+    "ru": "голодный",
+    "difficulty": "hard",
+    "page": 48
+  },
+  {
+    "id": 231,
+    "agul": "гХабдал",
+    "ru": "юродивый",
+    "difficulty": "hard",
+    "page": 63
+  },
+  {
+    "id": 232,
+    "agul": "гХакьуф",
+    "ru": "чёрствый",
+    "difficulty": "hard",
+    "page": 65
+  },
+  {
+    "id": 233,
+    "agul": "качал",
+    "ru": "плешивый",
+    "difficulty": "hard",
+    "page": 95
+  },
+  {
+    "id": 234,
+    "agul": "кьантХиш",
+    "ru": "курносый",
+    "difficulty": "hard",
+    "page": 119
+  },
+  {
+    "id": 235,
+    "agul": "тав",
+    "ru": "гостиная",
+    "difficulty": "hard",
+    "page": 150
+  },
+  {
+    "id": 236,
+    "agul": "оказаться",
+    "ru": "невинным",
+    "difficulty": "hard",
+    "page": 152
+  },
+  {
+    "id": 237,
+    "agul": "тТишалай",
+    "ru": "размятая",
+    "difficulty": "hard",
+    "page": 157
+  },
+  {
+    "id": 238,
+    "agul": "ухьттанф",
+    "ru": "красивый",
+    "difficulty": "hard",
+    "page": 162
+  },
+  {
+    "id": 239,
+    "agul": "хьидйнф",
+    "ru": "весенний",
+    "difficulty": "hard",
+    "page": 186
+  },
+  {
+    "id": 240,
+    "agul": "гьагьал",
+    "ru": "сиюминуту",
+    "difficulty": "hard",
+    "page": 56
+  },
+  {
+    "id": 241,
+    "agul": "жалком",
+    "ru": "состоянии",
+    "difficulty": "hard",
+    "page": 73
+  },
+  {
+    "id": 242,
+    "agul": "переть",
+    "ru": "подпоркой",
+    "difficulty": "hard",
+    "page": 77
+  },
+  {
+    "id": 243,
+    "agul": "кёсппи",
+    "ru": "профессия",
+    "difficulty": "hard",
+    "page": 98
+  },
+  {
+    "id": 244,
+    "agul": "ккалтуф",
+    "ru": "картофель",
+    "difficulty": "hard",
+    "page": 105
+  },
+  {
+    "id": 245,
+    "agul": "ккалхузник",
+    "ru": "колхозник",
+    "difficulty": "hard",
+    "page": 105
+  },
+  {
+    "id": 246,
+    "agul": "кьучй",
+    "ru": "разбойник",
+    "difficulty": "hard",
+    "page": 117
+  },
+  {
+    "id": 247,
+    "agul": "кьекь",
+    "ru": "горловина",
+    "difficulty": "hard",
+    "page": 120
+  },
+  {
+    "id": 248,
+    "agul": "кГагХлачи",
+    "ru": "лудильщик",
+    "difficulty": "hard",
+    "page": 123
+  },
+  {
+    "id": 249,
+    "agul": "мйшттира",
+    "ru": "союзтакже",
+    "difficulty": "hard",
+    "page": 133
+  },
+  {
+    "id": 250,
+    "agul": "пирзйвник",
+    "ru": "призывник",
+    "difficulty": "hard",
+    "page": 139
+  },
+  {
+    "id": 251,
+    "agul": "рашвачи",
+    "ru": "взяточник",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 252,
+    "agul": "войлок",
+    "ru": "подседлом",
+    "difficulty": "hard",
+    "page": 151
+  },
+  {
+    "id": 253,
+    "agul": "тупёнчи",
+    "ru": "револьвер",
+    "difficulty": "hard",
+    "page": 153
+  },
+  {
+    "id": 254,
+    "agul": "уьйра",
+    "ru": "жеребёнок",
+    "difficulty": "hard",
+    "page": 163
+  },
+  {
+    "id": 255,
+    "agul": "футнакар",
+    "ru": "клеветник",
+    "difficulty": "hard",
+    "page": 169
+  },
+  {
+    "id": 256,
+    "agul": "бегёнмиш",
+    "ru": "нравящийся",
+    "difficulty": "hard",
+    "page": 40
+  },
+  {
+    "id": 257,
+    "agul": "гунйн",
+    "ru": "кусокхлеба",
+    "difficulty": "hard",
+    "page": 51
+  },
+  {
+    "id": 258,
+    "agul": "джанкийеф",
+    "ru": "кейирживой",
+    "difficulty": "hard",
+    "page": 79
+  },
+  {
+    "id": 259,
+    "agul": "ккуьрз",
+    "ru": "наковальня",
+    "difficulty": "hard",
+    "page": 110
+  },
+  {
+    "id": 260,
+    "agul": "кТватт",
+    "ru": "мерказерна",
+    "difficulty": "hard",
+    "page": 124
+  },
+  {
+    "id": 261,
+    "agul": "телеграм",
+    "ru": "телеграмма",
+    "difficulty": "hard",
+    "page": 152
+  },
+  {
+    "id": 262,
+    "agul": "тХуршаф",
+    "ru": "шатающийся",
+    "difficulty": "hard",
+    "page": 158
+  },
+  {
+    "id": 263,
+    "agul": "хуртГум",
+    "ru": "хоботслона",
+    "difficulty": "hard",
+    "page": 168
+  },
+  {
+    "id": 264,
+    "agul": "гаргар",
+    "ru": "колокольчик",
+    "difficulty": "hard",
+    "page": 47
+  },
+  {
+    "id": 265,
+    "agul": "гьаттархьас",
+    "ru": "уйтиспереди",
+    "difficulty": "hard",
+    "page": 60
+  },
+  {
+    "id": 266,
+    "agul": "дакьаттилди",
+    "ru": "внимательно",
+    "difficulty": "hard",
+    "page": 72
+  },
+  {
+    "id": 267,
+    "agul": "иттлйн",
+    "ru": "понедельник",
+    "difficulty": "hard",
+    "page": 88
+  },
+  {
+    "id": 268,
+    "agul": "майцХур",
+    "ru": "восемьдесят",
+    "difficulty": "hard",
+    "page": 129
+  },
+  {
+    "id": 269,
+    "agul": "мастт",
+    "ru": "простокваша",
+    "difficulty": "hard",
+    "page": 130
+  },
+  {
+    "id": 270,
+    "agul": "пешекар",
+    "ru": "ремесленник",
+    "difficulty": "hard",
+    "page": 138
+  },
+  {
+    "id": 271,
+    "agul": "лось",
+    "ru": "многомужчин",
+    "difficulty": "hard",
+    "page": 140
+  },
+  {
+    "id": 272,
+    "agul": "кьан",
+    "ru": "усттакузнец",
+    "difficulty": "hard",
+    "page": 143
+  },
+  {
+    "id": 273,
+    "agul": "чархьунайа",
+    "ru": "рожьсозрела",
+    "difficulty": "hard",
+    "page": 183
+  },
+  {
+    "id": 274,
+    "agul": "бурч",
+    "ru": "можжевельник",
+    "difficulty": "hard",
+    "page": 42
+  },
+  {
+    "id": 275,
+    "agul": "хьас",
+    "ru": "проголодатья",
+    "difficulty": "hard",
+    "page": 48
+  },
+  {
+    "id": 276,
+    "agul": "карвансара",
+    "ru": "каравансарай",
+    "difficulty": "hard",
+    "page": 95
+  },
+  {
+    "id": 277,
+    "agul": "принадлежит",
+    "ru": "моемудедушке",
+    "difficulty": "hard",
+    "page": 172
+  },
+  {
+    "id": 278,
+    "agul": "эйёсиваьл",
+    "ru": "хозяйничанье",
+    "difficulty": "hard",
+    "page": 215
+  },
+  {
+    "id": 279,
+    "agul": "дирибаш",
+    "ru": "смелый",
+    "difficulty": "hard",
+    "page": 76
+  },
+  {
+    "id": 280,
+    "agul": "шим",
+    "ru": "гравий",
+    "difficulty": "hard",
+    "page": 203
+  },
+  {
+    "id": 281,
+    "agul": "вайённи",
+    "ru": "военный",
+    "difficulty": "hard",
+    "page": 43
+  },
+  {
+    "id": 282,
+    "agul": "верёф",
+    "ru": "будущий",
+    "difficulty": "hard",
+    "page": 46
+  },
+  {
+    "id": 283,
+    "agul": "джаллу",
+    "ru": "крепкий",
+    "difficulty": "hard",
+    "page": 79
+  },
+  {
+    "id": 284,
+    "agul": "иджёф",
+    "ru": "хороший",
+    "difficulty": "hard",
+    "page": 85
+  },
+  {
+    "id": 285,
+    "agul": "мйсан",
+    "ru": "здешний",
+    "difficulty": "hard",
+    "page": 133
+  },
+  {
+    "id": 286,
+    "agul": "пирпйн",
+    "ru": "буковый",
+    "difficulty": "hard",
+    "page": 139
+  },
+  {
+    "id": 287,
+    "agul": "уджузинф",
+    "ru": "дешёвый",
+    "difficulty": "hard",
+    "page": 159
+  },
+  {
+    "id": 288,
+    "agul": "шадф",
+    "ru": "весёлый",
+    "difficulty": "hard",
+    "page": 202
+  },
+  {
+    "id": 289,
+    "agul": "бул",
+    "ru": "обильный",
+    "difficulty": "hard",
+    "page": 42
+  },
+  {
+    "id": 290,
+    "agul": "вааджйб",
+    "ru": "жалованье",
+    "difficulty": "hard",
+    "page": 45
+  },
+  {
+    "id": 291,
+    "agul": "дасмал",
+    "ru": "полотенце",
+    "difficulty": "hard",
+    "page": 73
+  },
+  {
+    "id": 292,
+    "agul": "люблю",
+    "ru": "тудевушку",
+    "difficulty": "hard",
+    "page": 140
+  },
+  {
+    "id": 293,
+    "agul": "садаф",
+    "ru": "перламутр",
+    "difficulty": "hard",
+    "page": 146
+  },
+  {
+    "id": 294,
+    "agul": "ром",
+    "ru": "пекутхлеб",
+    "difficulty": "hard",
+    "page": 146
+  },
+  {
+    "id": 295,
+    "agul": "син",
+    "ru": "проволока",
+    "difficulty": "hard",
+    "page": 148
+  },
+  {
+    "id": 296,
+    "agul": "сум",
+    "ru": "соломинка",
+    "difficulty": "hard",
+    "page": 149
+  },
+  {
+    "id": 297,
+    "agul": "андава",
+    "ru": "нетсахара",
+    "difficulty": "hard",
+    "page": 202
+  },
+  {
+    "id": 298,
+    "agul": "зуранар",
+    "ru": "навескрыши",
+    "difficulty": "hard",
+    "page": 84
+  },
+  {
+    "id": 299,
+    "agul": "рама",
+    "ru": "стадобыков",
+    "difficulty": "hard",
+    "page": 142
+  },
+  {
+    "id": 300,
+    "agul": "бусулман",
+    "ru": "мусульманин",
+    "difficulty": "hard",
+    "page": 42
+  }
+]
