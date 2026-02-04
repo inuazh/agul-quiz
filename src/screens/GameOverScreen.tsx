@@ -52,7 +52,7 @@ export function GameOverScreen({
       <div className="rounded-3xl bg-slate-900 p-5">
         <div className="text-sm text-slate-400">Game Over</div>
         <div className="mt-1 text-4xl font-bold">Score: {score}</div>
-        <div className="mt-2 text-slate-300">Топ показываем всегда — для мотивации.</div>
+        <div className="mt-2 text-slate-300">по всем вопросам обращайтесь ramazaniche@gmail.com</div>
       </div>
 
       <div className="rounded-3xl bg-slate-900 p-5">
@@ -85,7 +85,11 @@ export function GameOverScreen({
               placeholder="Ник (3–12, кир/лат)"
               className="w-full rounded-2xl bg-slate-950/40 px-4 py-3 outline-none ring-1 ring-slate-800 focus:ring-slate-600"
             />
-            <Button disabled={saving || !isNickValid(nick)} onClick={onSave}>
+            <Button
+              disabled={saving || !isNickValid(nick)}
+              onClick={onSave}
+              className="bg-slate-800 hover:bg-slate-700"
+            >
               {saving ? "Сохраняю…" : "Сохранить"}
             </Button>
             <div className="text-xs text-slate-400">
@@ -101,7 +105,9 @@ export function GameOverScreen({
         )}
       </div>
 
-      <Button onClick={onPlayAgain}>Играть ещё</Button>
+      <Button onClick={onPlayAgain} className="bg-slate-800 hover:bg-slate-700">
+        Играть ещё
+      </Button>
     </div>
   );
 }

@@ -21,7 +21,9 @@ export function StartScreen({ onStart }: { onStart: () => void }) {
         </div>
       </div>
 
-      <Button onClick={onStart}>Начать</Button>
+      <Button onClick={onStart} className="bg-slate-800 hover:bg-slate-700">
+        Начать
+      </Button>
 
       <p className="text-xs text-slate-400">
         После игры показывается общий топ — можно посоревноваться с другими игроками.

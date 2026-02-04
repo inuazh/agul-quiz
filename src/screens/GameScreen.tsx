@@ -47,7 +47,7 @@ export function GameScreen({ words }: { words: WordItem[] }) {
       </div>
 
       <p className="text-center text-xs text-slate-400">
-        После ответа показываем правильный вариант ~1 секунду.
+        если вы считаете перевод неправильным, напишите нам ramazaniche@gmail.com 
       </p>
     </div>
   );
