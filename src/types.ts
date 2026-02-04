@@ -5,7 +5,6 @@ export type WordItem = {
   agul: string;
   ru: string;
   difficulty: Difficulty;
-  page?: number;
 };
 
 export type Question = {
